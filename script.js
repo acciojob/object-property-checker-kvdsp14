@@ -7,8 +7,10 @@ function hasKey(key) {
       return ture;
       
     }
-    else 
+    else {
+		
       return false;
+	}
     
   }
 }
